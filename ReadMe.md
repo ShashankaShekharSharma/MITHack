@@ -1,12 +1,12 @@
 # Quantum Factorisation
      
-     Process of factoring integers using Quantum Algorithms, most notably the Shor's Algorithm leveraging the principles of quantum mechanics to solve the integer factorisation problem exponentially faster than classical algorithms
+Process of factoring integers using Quantum Algorithms, most notably the Shor's Algorithm leveraging the principles of quantum mechanics to solve the integer factorisation problem exponentially faster than classical algorithms
 
-     When it comes to factorising large numbers, the time required by any classical algorithm increases exponentially, however, quantum factorisation can do so in polynomial time complexity thereatening currect cryptographic systems like RSA
+When it comes to factorising large numbers, the time required by any classical algorithm increases exponentially, however, quantum factorisation can do so in polynomial time complexity thereatening currect cryptographic systems like RSA
 
 # Shor's Algorithm
     
-    Shor's Algorithm was founded by Peter Shor in 1994 to factorise large numbers exponentially faster than classical computers. It solves the problem of factorisation and also breaks cryptographic systems like RSA
+Shor's Algorithm was founded by Peter Shor in 1994 to factorise large numbers exponentially faster than classical computers. It solves the problem of factorisation and also breaks cryptographic systems like RSA
 
 ## Steps in Shor's Algorithm
 - Check if N is even or has small prime numbers
